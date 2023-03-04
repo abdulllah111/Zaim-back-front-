@@ -31,3 +31,14 @@ dotnet run
 ### В третьих:
 
 - Запускаем клтиент в любом удобном локальном сервере предварительно заменив url (js/main.js:60) на url сервера.
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+![](https://komarev.com/ghpvc/?username=abdulllah111&color=green )
