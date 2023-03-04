@@ -13,6 +13,11 @@ Frontend - с ильспользованем jQuery, jQuery.Ajax, Boodstrap
 - Разработан API на платформе .Net
 - Разработан клиент в виде web сайта
 
+<img alt="GIF" src="https://drive.google.com/uc?export=view&id=1EBy7COT6WnlGrK3DHnwesZXnJBXmYuMz" />
+
+<br />
+
+
 ## FAQ
 
 ### Во первых:
