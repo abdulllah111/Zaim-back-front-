@@ -41,4 +41,4 @@ dotnet run
 </br>
 </br>
 
-![](https://komarev.com/ghpvc/?username=abdulllah111&color=green )
+![](https://komarev.com/ghpvc/?username=abdulllah111&color=green&label=Посещений )
