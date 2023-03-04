@@ -1,0 +1,8 @@
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\Zaim.WebApi.exe
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\libman.json
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\Zaim.WebApi.dll
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\Zaim.WebApi.deps.json
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\Zaim.WebApi.runtimeconfig.json
+C:\Users\shoki\source\repos\Zaim\Zaim.Backend\Zaim.WebApi\obj\Release\net7.0\PubTmp\Out\Zaim.WebApi.pdb
