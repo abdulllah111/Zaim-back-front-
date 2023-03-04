@@ -1,7 +1,7 @@
 
 # Zaim (back-front)
 
-Backend разработан на .Net7
+Backend разработан на .Net7 <br/>
 Frontend - с ильспользованем jQuery, jQuery.Ajax, Boodstrap
 
 
