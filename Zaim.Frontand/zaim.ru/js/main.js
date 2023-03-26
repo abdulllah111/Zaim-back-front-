@@ -57,7 +57,7 @@ $(document).ready(function () {
 function isSession(selector) {
   return $.ajax({
     type: "POST",
-    url: "http://localhost:5206/calculate",
+    url: "https://abdul111.bsite.net/calculate",
     data: selector,
     dataType: "json",
     async: !1,
